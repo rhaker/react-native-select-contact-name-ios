@@ -1,6 +1,6 @@
 {
   "name": "react-native-select-contact-name-ios",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "A react-native interface for selecting a contact and returning a name. Uses async promises (ios8 or higher only).",
   "main": "index.ios.js",
   "scripts": {
