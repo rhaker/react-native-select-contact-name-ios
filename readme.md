@@ -22,6 +22,7 @@ If you get stuck, take a look at Brent Vatne's blog. His blog is my go to refere
 
 # Api Setup
 
+```js
 var React = require('react-native');
 
 var { NativeModules } = React;
@@ -42,6 +43,7 @@ async _selectName() {
 
   }
 },
+```
 
 # Additional Notes
 
